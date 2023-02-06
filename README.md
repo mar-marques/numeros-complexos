@@ -1,4 +1,4 @@
- # Projetos-em-C
+ # Números Complexos
  
  #### Motivação
 Este programa é resultado de um exercício proposto em uma disciplina de minha graduação. É uma calculadora que opera com números complexos.
